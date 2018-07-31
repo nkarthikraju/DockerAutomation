@@ -1,3 +1,3 @@
 FROM ubuntu
-mkdir /dockerautomation
+RUN mkdir /dockerautomation
 

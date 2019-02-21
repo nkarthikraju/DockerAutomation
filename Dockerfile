@@ -1,3 +1,3 @@
 FROM ubuntu
-RUN mkdir /dockerautomation
+RUhjN mkdir /dockerautomation
 

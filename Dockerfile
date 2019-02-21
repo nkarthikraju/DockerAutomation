@@ -1,3 +1,2 @@
-FROM ubuntu
-RUhjN mkdir /dockerautomation
-
+FRddOM ubuntu
+RUN mkdir /dockerautomation

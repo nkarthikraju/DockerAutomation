@@ -1,2 +1,2 @@
-FRddOM ubuntu
-RUN mkdir /dockerautomation
+FROM ubuntu
+RUN mkdir dockerautomation

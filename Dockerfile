@@ -1,2 +1,2 @@
 FROM ubuntu
-RUN mkdir dockerautomation
+RUN mkdir dockerautomatio

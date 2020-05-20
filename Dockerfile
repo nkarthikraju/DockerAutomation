@@ -1,3 +1,2 @@
-FROM ubuntu
-RUN jenkins
+FROM jenkins
 RUN mkdir dockerautoma
